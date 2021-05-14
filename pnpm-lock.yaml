@@ -19,7 +19,7 @@ specifiers:
   '@nrwl/web': 12.0.3
   '@nrwl/workspace': 12.0.3
   '@svgr/webpack': 5.5.0
-  '@testing-library/react': 11.2.5
+  '@testing-library/react': 11.2.7
   '@types/jest': 26.0.22
   '@types/node': 14.14.33
   '@types/react': 17.0.3
@@ -86,7 +86,7 @@ devDependencies:
   '@nrwl/web': 12.0.3_65d8e7b224216042aae993a893450bc7
   '@nrwl/workspace': 12.0.3_prettier@2.2.1
   '@svgr/webpack': 5.5.0
-  '@testing-library/react': 11.2.5_react-dom@17.0.2+react@17.0.2
+  '@testing-library/react': 11.2.7_react-dom@17.0.2+react@17.0.2
   '@types/jest': 26.0.22
   '@types/node': 14.14.33
   '@types/react': 17.0.3
@@ -3287,8 +3287,8 @@ packages:
       pretty-format: 26.6.2
     dev: true
 
-  /@testing-library/react/11.2.5_react-dom@17.0.2+react@17.0.2:
-    resolution: {integrity: sha512-yEx7oIa/UWLe2F2dqK0FtMF9sJWNXD+2PPtp39BvE0Kh9MJ9Kl0HrZAgEuhUJR+Lx8Di6Xz+rKwSdEPY2UV8ZQ==}
+  /@testing-library/react/11.2.7_react-dom@17.0.2+react@17.0.2:
+    resolution: {integrity: sha512-tzRNp7pzd5QmbtXNG/mhdcl7Awfu/Iz1RaVHY75zTdOkmHCuzMhRL83gWHSgOAcjS3CCbyfwUHMZgRJb4kAfpA==}
     engines: {node: '>=10'}
     peerDependencies:
       react: '*'
